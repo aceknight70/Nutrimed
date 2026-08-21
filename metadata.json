@@ -1,0 +1,6 @@
+{
+  "name": "NutriMed",
+  "description": "A growing directory outlet connecting youth and health-focused food vendors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

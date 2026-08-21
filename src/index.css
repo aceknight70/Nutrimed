@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-nutri-navy: #003087;
+  --color-nutri-red: #C8102E;
+  --color-nutri-gold: #E8A33D;
+  --color-nutri-green: #4A7C59;
+  --color-nutri-cream: #FAF7F0;
+  
+  --font-sans: system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background-color: var(--color-nutri-cream);
+  color: var(--color-nutri-navy);
+  font-family: var(--font-sans);
+}
